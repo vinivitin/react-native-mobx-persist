@@ -34,3 +34,4 @@ module.exports = function (api) {
 - https://mobx.js.org/README.html
 - https://react-native-async-storage.github.io/async-storage/
 - https://github.com/pinqy520/mobx-persist
+- https://dev.to/lloyds-digital/why-you-should-use-mobx-state-tree-in-your-next-react-project-l3
