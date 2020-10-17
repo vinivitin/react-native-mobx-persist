@@ -1,0 +1,12 @@
+{
+  "name": "mobx",
+  "displayName": "mobx",
+  "expo": {
+    "name": "mobx",
+    "slug": "mobx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
